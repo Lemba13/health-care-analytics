@@ -84,7 +84,7 @@ y_final = np.vectorize(reversefactor.get)(y_final)
 submission = pd.DataFrame()
 submission['case_id'] = fin_df['case_id']
 submission['Stay'] = y_final
-submission.to_csv('final0.csv', header=True, index=False)
+submission.to_csv('final.csv', header=True, index=False)
 
 
 
