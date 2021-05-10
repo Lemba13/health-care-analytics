@@ -16,6 +16,4 @@ After Exploratory Data Analysis, some features were added. After trying out diff
 
 The model produced a score of 43.672 on our test dataset and the score on the final benchmark dataset was 42.889.
 
-### *Note*
-
-Some more feature engineering can be done to further improve the score.
+***Note:*** Some more feature engineering can be done to further improve the score.
